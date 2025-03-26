@@ -38,8 +38,8 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AbdulMoiz2493/ZORO_Freelancing_FreelancerPanel.git
+cd ZORO_Freelancing_FreelancerPanel
 ```
 
 ### 2. Install Dependencies
